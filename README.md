@@ -310,6 +310,6 @@ pnpm run test
 
 ## 🧑‍💻 Author
 
-Originally created by [Muneeb Ullah](https://github.com/moneebullah25)
+Created by [Muneeb Ullah](https://github.com/moneebullah25)
 
 ---
