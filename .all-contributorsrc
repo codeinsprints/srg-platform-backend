@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "moneebullah25",
+      "name": "Muneeb Ullah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26417668?v=4",
+      "profile": "https://github.com/moneebullah25",
+      "contributions": [
+        "code",
+        "doc",
+        "test"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "nest-starter",
+  "projectOwner": "moneebullah25",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
