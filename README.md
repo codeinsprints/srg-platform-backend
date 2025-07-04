@@ -305,11 +305,3 @@ Please make sure to lint and test your changes:
 pnpm run lint
 pnpm run test
 ```
-
----
-
-## 🧑‍💻 Author
-
-Created by [Muneeb Ullah](https://github.com/moneebullah25)
-
----
